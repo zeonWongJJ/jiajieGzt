@@ -1,0 +1,43 @@
+.van-dialog__confirm{
+	color: #18B4ED;
+}
+
+.van-nav-bar{
+	background: #18b4ed;
+	color: #fff;
+	height: .46rem;
+	line-height: .46rem;
+}
+.van-nav-bar__left{
+	font-size: .18rem;
+	left: .15rem;
+}
+.van-nav-bar__right{
+	font-size: .18rem;
+	/*right: .15rem;*/
+}
+.van-nav-bar .van-icon{
+	color: #fff;
+}
+.van-nav-bar__title{
+	font-size: .18rem;
+}
+/*white*/
+.white.van-nav-bar{
+	background: #fff;
+	color: #000000;
+}
+.white.van-nav-bar .van-icon{
+	color: #000000;
+}
+/*blue*/
+.blue.van-nav-bar{
+	background: #18B4ED;
+	color: #fff;
+}
+.blue.van-nav-bar .van-icon{
+	color: #fff;
+}
+.blue.van-hairline--bottom::after{
+	content: none;
+}

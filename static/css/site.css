@@ -1,0 +1,14 @@
+body{
+    background-color: #ffffff;
+    font-size: 12px;
+}
+ui li{  
+    list-style: none;
+}
+.app .tmpl{
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+
+
